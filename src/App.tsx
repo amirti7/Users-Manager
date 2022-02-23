@@ -248,7 +248,7 @@ const App: React.FC = () => {
         editUser={editUser}
         setTitleValue={setTitleValue}
         titleValue={titleValue}
-        setFirstValue={setFirstValue}
+        setFirstValue={setFirstValue} 
         firstValue={firstValue}
         setLastValue={setLastValue}
         lastValue={lastValue}

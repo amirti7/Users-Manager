@@ -111,7 +111,7 @@ const EditModal: React.FC<props> = ({
           <input
             onChange={(e) => setLastValue(e.target.value)}
             type="text"
-            id="nameLast"
+            id="nameLast" 
             value={lastValue || name.last}
           ></input>
         </EditModalSection>

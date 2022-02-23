@@ -33,7 +33,7 @@ const Users: React.FC<props> = ({ users, deleteUser ,handleSelectUser,modal,onOp
           modal={modal}
         />
       ))}
-    </Container>
+    </Container> 
   );
 };
 

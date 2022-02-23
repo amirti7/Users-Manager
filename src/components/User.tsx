@@ -24,7 +24,7 @@ const Container = styled.div`
   background-color: #f1f1f1;
   width: 25%;
   min-width: 300px;
-`;
+`; 
 
 const Icon = styled(FaTimes)`
   color: red;

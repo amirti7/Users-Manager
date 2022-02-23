@@ -16,4 +16,4 @@ const Header: React.FC<props> = ({ titlePhrase }) => {
   );
 };
 
-export default Header;
+export default Header; 
